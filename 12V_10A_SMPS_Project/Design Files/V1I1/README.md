@@ -1,4 +1,5 @@
 # Objective
+* Fabricate a very small footprint 12V 10A switch mode power supply(SMPS).
 
 # Schematic Diagram
 
